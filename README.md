@@ -96,7 +96,7 @@ The code is based on the [MPRNet](https://github.com/swz30/MPRNet/tree/main/Debl
 @inproceedings{Kim2022MSSNet,
 author = {Kim, Kiyeon and Lee, Seungyong and Cho, Sunghyun},
 title = {MSSNet: Multi-Scale-Stage Network for Single Image Deblurring},
-booktitle = {Proc. of ECCVW (AIM)}
+booktitle = {Proc. of ECCVW (AIM)},
 year = {2022}
 }
 ```
